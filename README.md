@@ -1,1 +1,3 @@
 # chaos_project
+IT-305
+AGANA,PERALTA,FUNELAS
